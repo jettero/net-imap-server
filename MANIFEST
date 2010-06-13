@@ -51,5 +51,6 @@ META.yml
 README
 SIGNATURE
 t/00.load.t
+t/07.test-message-datetimeformat.t
 t/pod-coverage.t
 t/pod.t
